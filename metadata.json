@@ -1,0 +1,6 @@
+{
+  "name": "Restaurante Portugal - Arapongas",
+  "description": "Almoço com tempero caseiro e a verdadeira comida tradicional em Arapongas. Marmitex, buffet executivo e entregas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
